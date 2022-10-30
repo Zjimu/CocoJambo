@@ -1,6 +1,6 @@
-CozyHouse
-========================
+#CozyHouse
 
+##Shelter for pets in Moscow
 
 
 ## Состав комнады:
