@@ -2,7 +2,7 @@
 ##  Идея проекта
 Приют для животных в Москве
 
-✅ Landing Page:
+## ✅ Landing Page:
 
 [Ссылка на лендинг](https://zjimu.github.io/Cozy_House/)
 
